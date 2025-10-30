@@ -2,7 +2,7 @@
 import google.generativeai as genai
 
 
-genai.configure(api_key="AIzaSyBDGQH7uD7KgqP1d1WELikKL3TR440xSOs")  # replace with your key
+genai.configure(api_key="xxxxxxxxxxxxxxxxxxxxxxxxxxx")  # replace with your key #free key
 
 # 2️⃣ Initialize the Gemini model
 model = genai.GenerativeModel("gemini-2.5-pro")  # free-tier supported model
